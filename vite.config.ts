@@ -4,10 +4,14 @@ import tailwindcss from '@tailwindcss/vite'
 import fs from 'node:fs'
 import path from 'node:path'
 
-import siteConfiguration from './.figma/make/site.json'
-
-
-// Vite config — https://vitejs.dev/config/
+// Safely load Figma site configuration if present, otherwise default to empty object
+let siteConfiguration: any = {}
+try {
+  const configPath = path.resolve(__dirname, './.figma/make/site.json')
+  if (fs.existsSync(configPath)) {
+    siteConfiguration = JSON.parse(fs.readFileSync(configPath, 'utf8'))
+  }
+} catch (e) {}
 export default defineConfig(({ mode }) => {
   // .figma/make/deploy-preview passes `--mode development` for cached-preview builds.
   const emitSourcemaps = mode === 'development'
