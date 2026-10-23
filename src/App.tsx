@@ -57,7 +57,7 @@ export default function App() {
         </nav>
         <a
           className="header-cta"
-          href="https://www.linkedin.com/in/simon-kirrane/"
+          href="https://www.linkedin.com/in/simonkirrane/"
           target="_blank"
           rel="noreferrer"
         >
