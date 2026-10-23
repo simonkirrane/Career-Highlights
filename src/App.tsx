@@ -80,8 +80,8 @@ export default function App() {
 
             <div className="hero-statement">
               <p>
-                I turn complex products and passionate communities into
-                <em> content that moves people—and numbers.</em>
+                I connect complex products and systems to passionate communities and individuals with a need into
+                <em> content that moves people – and numbers.</em>
               </p>
               <div className="rule" />
               <p className="hero-bio">
@@ -125,7 +125,7 @@ export default function App() {
               </div>
               <p className="case-deck">
                 A joint content and product strand designed to withstand AI
-                Overviews—and capture higher-intent search.
+                Overviews – and capture higher-intent search.
               </p>
             </div>
 
@@ -135,7 +135,7 @@ export default function App() {
                 <p>
                   Searches for “X template” are much harder for an AI Overview
                   to satisfy: users want an asset, not instructions. They also
-                  know what they want—and convert at higher rates when they find
+                  know what they want – and convert at higher rates when they find
                   it. I built the strand around Confluence templates created
                   with our app, Mosaic.
                 </p>
@@ -283,7 +283,7 @@ export default function App() {
                 <p>
                   I delivered the content strategy for the Canon EMEA Ambassador
                   launch, establishing new ways of working while coordinating
-                  globally mobile photographers—all within exacting brand and
+                  globally mobile photographers – all within exacting brand and
                   content guidelines.
                 </p>
                 <p>
@@ -349,7 +349,7 @@ export default function App() {
                 </h2>
                 <p className="case-deck">
                   With founding partner Phil O’Brien, I created a hyper-local
-                  print and digital brand from scratch in New York City—with a
+                  print and digital brand from scratch in New York City – with a
                   team of four.
                 </p>
                 <ul className="plain-results">
@@ -412,7 +412,7 @@ export default function App() {
                 <h2>GEO, playbooks &amp; technical workarounds.</h2>
               </div>
               <p className="case-deck">
-                Researching, building and delivering new AI and GEO strategies—
+                Researching, building and delivering new AI and GEO strategies – 
                 and overturning accepted wisdom about what an AI agent can do.
               </p>
             </div>
@@ -445,7 +445,7 @@ export default function App() {
                 <h3>The “impossible” workaround</h3>
                 <p>
                   A custom prompt solution enabling Rovo to read content inside
-                  any Confluence macro—findings now shared with Atlassian.
+                  any Confluence macro – findings now shared with Atlassian.
                 </p>
               </article>
             </div>
