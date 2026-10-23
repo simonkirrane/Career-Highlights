@@ -252,8 +252,8 @@ export default function App() {
                 <p>Quarterly visits within 24 months</p>
               </div>
               <div>
-                <strong>1 / 5</strong>
-                <p>Sole breakout success of five sibling launches</p>
+                <strong>1st of 4</strong>
+                <p>Of three sibling launches ADV was considered the breakout success</p>
               </div>
             </div>
             <div className="case-footer-link">
