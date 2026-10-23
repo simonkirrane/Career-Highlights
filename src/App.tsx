@@ -320,7 +320,7 @@ export default function App() {
 
             <div className="other-clients">
               <div>
-                <p className="kicker">Selected client work · 2016–19</p>
+                <p className="kicker">Other client work · 2016–19</p>
                 <h3>Three clients. Three different strategies.</h3>
               </div>
               <figure>
@@ -354,16 +354,16 @@ export default function App() {
                 </p>
                 <ul className="plain-results">
                   <li>
-                    <strong>100 pages</strong>
+                    <strong>100-page magazine and digital media brand</strong>
                     <span>delivered to market in three months</span>
                   </li>
                   <li>
-                    <strong>20,000</strong>
-                    <span>copies in each monthly print run</span>
+                    <strong>20,000 print run</strong>
+                    <span>hand delivered to local businesses</span>
                   </li>
                   <li>
                     <strong>Legacy-beating</strong>
-                    <span>Facebook engagement soon after launch</span>
+                    <span>Facebook engagement beat the Village Voice after launch</span>
                   </li>
                 </ul>
                 <ExternalLink href="https://www.instagram.com/w42st/">
