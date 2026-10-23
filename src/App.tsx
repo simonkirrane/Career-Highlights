@@ -321,7 +321,7 @@ export default function App() {
             <div className="other-clients">
               <div>
                 <p className="kicker">Selected client work · 2016–19</p>
-                <h3>One strategy. Three very different audiences.</h3>
+                <h3>Three clients. Three different strategies.</h3>
               </div>
               <figure>
                 <img
