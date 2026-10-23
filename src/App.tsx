@@ -80,7 +80,7 @@ export default function App() {
 
             <div className="hero-statement">
               <p>
-                I connect complex products and systems to passionate communities and individuals with a need into
+                I connect products and systems to audience needs to create
                 <em> content that moves people – and numbers.</em>
               </p>
               <div className="rule" />
