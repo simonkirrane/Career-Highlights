@@ -170,7 +170,7 @@ export default function App() {
             <div className="evidence-grid">
               <figure className="image-card">
                 <img
-                  src="/assets/kolekti-year-one.webp"
+                  src="/kolekti-year-one.webp"
                   alt="Summary of FY 2023–24 Kolekti content activity and results"
                 />
                 <figcaption>
@@ -222,7 +222,7 @@ export default function App() {
                 <h2>Advntures in web success.</h2>
               </div>
               <div className="brand-tile advnture-brand">
-                <img src="/assets/advnture-logo.png" alt="Advnture" />
+                <img src="/advnture-logo.png" alt="Advnture" />
               </div>
             </div>
 
@@ -273,7 +273,7 @@ export default function App() {
                 <h2>Focus on use cases.</h2>
               </div>
               <div className="brand-tile canon-brand">
-                <img src="/assets/canon-logo.png" alt="Canon" />
+                <img src="/canon-logo.png" alt="Canon" />
               </div>
             </div>
 
@@ -300,7 +300,7 @@ export default function App() {
             <div className="canon-gallery">
               <figure className="gallery-wide">
                 <img
-                  src="/assets/canon-ambassadors.webp"
+                  src="/canon-ambassadors.webp"
                   alt="Canon Ambassadors profile homepage"
                 />
                 <figcaption>
@@ -309,7 +309,7 @@ export default function App() {
               </figure>
               <figure>
                 <img
-                  src="/assets/canon-field-work.webp"
+                  src="/canon-field-work.webp"
                   alt="Professional photographer Martin Bissig working from a train in Sri Lanka"
                 />
                 <figcaption>
@@ -325,7 +325,7 @@ export default function App() {
               </div>
               <figure>
                 <img
-                  src="/assets/client-work.webp"
+                  src="/client-work.webp"
                   alt="Work for South Western Railway, Odeon, and TransPennine Express"
                 />
                 <figcaption>
@@ -372,7 +372,7 @@ export default function App() {
               </div>
               <figure className="cover-figure">
                 <img
-                  src="/assets/w42st-cover.webp"
+                  src="/w42st-cover.webp"
                   alt="Cover of the first issue of W42ST magazine"
                 />
                 <figcaption>
@@ -395,7 +395,7 @@ export default function App() {
               </div>
               <figure>
                 <img
-                  src="/assets/bookazines.webp"
+                  src="/bookazines.webp"
                   alt="Selection of bookazines including Great British Railway Posters and Royal Baby"
                 />
               </figure>
