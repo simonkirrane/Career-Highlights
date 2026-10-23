@@ -442,7 +442,7 @@ export default function App() {
               </article>
               <article>
                 <span>03</span>
-                <h3>The “impossible” workaround</h3>
+                <h3>The 'impossible' fix</h3>
                 <p>
                   A custom prompt solution enabling Rovo to read content inside
                   any Confluence macro – findings now shared with Atlassian.
