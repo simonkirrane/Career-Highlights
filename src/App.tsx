@@ -244,8 +244,8 @@ export default function App() {
 
             <div className="outcome-band">
               <div>
-                <strong>Month 3</strong>
-                <p>Revenue through Amazon Onsite Publishing</p>
+                <strong>Revenue by month 3</strong>
+                <p>Via Amazon Onsite Publishing</p>
               </div>
               <div>
                 <strong>8.4m</strong>
