@@ -396,13 +396,13 @@ export default function App() {
                   See W42ST today
                 </ExternalLink>
               </div>
-              <figure className="cover-figure">
+             <figure className="cover-figure">
                 <img
                   src="/w42st-cover.webp"
                   alt="Cover of the first issue of W42ST magazine"
                 />
-                <figcaption>
-                  Issue 01 · November/December 2014{" "}
+                <figcaption style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: '1rem' }}>
+                  <span>Issue 01 · November/December 2014</span>
                   <ExternalLink href="https://issuu.com/w42st/docs/w42st_issue1">
                     Read it
                   </ExternalLink>
