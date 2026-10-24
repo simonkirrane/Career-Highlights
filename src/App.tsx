@@ -133,7 +133,7 @@ export default function App() {
               <div className="story-copy">
                 <p className="kicker">The opportunity</p>
                 <p>
-                  Searches for “X template” are much harder for an AI Overview
+                  Searches for 'X template' are much harder for an AI Overview
                   to satisfy: users want an asset, not instructions. They also
                   know what they want – and convert at higher rates when they find
                   it. I built the strand around Confluence templates created
@@ -200,7 +200,7 @@ export default function App() {
               </div>
             </div>
             <p className="case-note">
-              The impact helped make “Templates” part of the product itself:
+              The impact ensured 'Templates' became part of the product:
               <em>
                 {" "}
                 Mosaic: Content Formatting Macros &amp; Templates for
@@ -278,7 +278,7 @@ export default function App() {
             </div>
 
             <div className="canon-intro">
-              <p className="lead-quote">“Promotion cosplaying as editorial.”</p>
+              <p className="lead-quote">Promotion cosplaying as editorial.</p>
               <div className="story-copy">
                 <p>
                   I delivered the content strategy for the Canon EMEA Ambassador
