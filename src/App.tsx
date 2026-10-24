@@ -161,19 +161,19 @@ export default function App() {
                 src="https://cdn.sanity.io/images/b5fgx0yb/production/e0ecd0965ffbeeb80c7b9f2227f46f3477fadea9-500x333.gif"
                 alt="Animated preview of an Agile Vision Statement template for Confluence"
               />
-             <figcaption>
+          <figcaption>
   <span>Product in motion</span>
   Agile Vision Statement Template for Confluence
-  <p style={{ marginTop: '0.75rem', fontSize: '0.95rem', lineHeight: '1.5', color: 'inherit', opacity: 0.85 }}>
+  <p style={{ marginTop: '0.85rem', fontSize: '0.9rem', lineHeight: '1.5', fontFamily: 'inherit', fontWeight: '400', color: 'inherit', opacity: 0.85 }}>
     The impact ensured 'Templates' became part of the product:
     <em>
       {" "}
       Mosaic: Content Formatting Macros &amp; Templates for
       Confluence.
     </em>{" "}
-  <a className="text-link" href="https://portfolio.simonkirrane.com/Kolekti-Numbers.webp" target="_blank" rel="noreferrer">
-  View growth charts ↗
-</a>
+    <a className="text-link" href="https://portfolio.simonkirrane.com/Kolekti-Numbers.webp" target="_blank" rel="noreferrer">
+      View growth charts ↗
+    </a>
   </p>
 </figcaption>
             </figure>
