@@ -115,7 +115,7 @@ export default function App() {
           </div>
         </section>
 
-        <section className="case-study dark-case" id="templates">
+ <section className="case-study dark-case" id="templates">
           <div className="section-inner">
             <SectionLabel number="01" />
             <div className="case-heading">
@@ -140,24 +140,62 @@ export default function App() {
                   with our app, Mosaic.
                 </p>
               </div>
-              <ol className="results-list">
-                <Result value="8,400">
-  organic keywords. Templates were introduced after a year of organic growth where the closest business unit to Kolekti had just 1,350 keywords.  
-  <div style={{ marginTop: '0.5rem' }}>
-    <a className="text-link" href="https://portfolio.simonkirrane.com/Kolekti-Numbers.webp" target="_blank" rel="noreferrer">
-      View growth charts ↗
-    </a>
-  </div>
-</Result>
-                <Result value="6.6k → 36k">
-                  monthly active users since launching Templates in 2023, with
-                  website traffic up 52% and evaluations up 10%.
-                </Result>
-                <Result value="#1">
-                  organic search became the business’s leading acquisition
-                  channel.
-                </Result>
-              </ol>
+
+              {/* Reworked Outcomes List */}
+              <div className="story-copy">
+                <p className="kicker">Outcomes</p>
+                <ul className="outcomes-list" style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '2rem' }}>
+                  <li>
+                    <strong style={{ fontFamily: 'var(--serif)', fontSize: '1.35rem', color: 'var(--acid)', display: 'block', marginBottom: '0.3rem' }}>
+                      ~8,400 organic keywords
+                    </strong>
+                    <p style={{ fontSize: '0.92rem', opacity: 0.85, margin: 0 }}>
+                      Grown by May 2024 (against ~1,350 for the next-best business unit), making organic search the #1 acquisition channel.
+                    </p>
+                    <div style={{ marginTop: '0.4rem' }}>
+                      <a className="text-link" href="https://portfolio.simonkirrane.com/Kolekti-Numbers.webp" target="_blank" rel="noreferrer" style={{ color: 'var(--acid)' }}>
+                        View growth charts ↗
+                      </a>
+                    </div>
+                  </li>
+
+                  <li>
+                    <strong style={{ fontFamily: 'var(--serif)', fontSize: '1.35rem', color: 'var(--acid)', display: 'block', marginBottom: '0.3rem' }}>
+                      6,600 → 36,000 monthly active users
+                    </strong>
+                    <p style={{ fontSize: '0.92rem', opacity: 0.85, margin: 0 }}>
+                      Achieved since launching Templates in 2023, with website traffic up 52% and evaluations up 10%. This impact championed the product renaming to <em>Mosaic: Content Formatting Macros &amp; Templates for Confluence</em>.
+                    </p>
+                  </li>
+
+                  <li>
+                    <strong style={{ fontFamily: 'var(--serif)', fontSize: '1.35rem', color: 'var(--acid)', display: 'block', marginBottom: '0.3rem' }}>
+                      B2C energy for B2B
+                    </strong>
+                    <p style={{ fontSize: '0.92rem', opacity: 0.85, margin: 0 }}>
+                      Created a D&amp;D character sheet template speaking to developer culture, promoted on LinkedIn with a <em>Stranger Things</em> theme.{' '}
+                      <a className="text-link" href="https://www.kolekti.com/resources/templates/character-sheet-template-confluence" target="_blank" rel="noreferrer" style={{ color: 'var(--acid)' }}>
+                        Character Sheet ↗
+                      </a>
+                    </p>
+                  </li>
+
+                  <li>
+                    <strong style={{ fontFamily: 'var(--serif)', fontSize: '1.35rem', color: 'var(--acid)', display: 'block', marginBottom: '0.3rem' }}>
+                      The Agile Framework GTM
+                    </strong>
+                    <p style={{ fontSize: '0.92rem', opacity: 0.85, margin: 0 }}>
+                      Partnered with Agile Manifesto signatory Jon Kern, yielding Kolekti's best-attended webinar (100+ attendees, 75% signup attendance).{' '}
+                      <a className="text-link" href="https://www.linkedin.com/events/agileat25-howtospotagorillainat7475877695097126912/" target="_blank" rel="noreferrer" style={{ color: 'var(--acid)' }}>
+                        How to Spot a Gorilla in a Tutu ↗
+                      </a>{' | '}
+                      <a className="text-link" href="https://www.kolekti.com/resources/templates/collections/jon-kern-agile-framework" target="_blank" rel="noreferrer" style={{ color: 'var(--acid)' }}>
+                        Jon Kern Framework ↗
+                      </a>
+                    </p>
+                  </li>
+                </ul>
+              </div>
             </div>
 
             <figure className="hero-media gif-media">
@@ -165,18 +203,18 @@ export default function App() {
                 src="https://cdn.sanity.io/images/b5fgx0yb/production/e0ecd0965ffbeeb80c7b9f2227f46f3477fadea9-500x333.gif"
                 alt="Animated preview of an Agile Vision Statement template for Confluence"
               />
-          <figcaption>
-  <span>Product in motion</span>
-  Agile Vision Statement Template for Confluence
-  <p style={{ marginTop: '0.85rem', fontSize: '0.9rem', lineHeight: '1.5', fontFamily: 'inherit', fontWeight: '400', color: 'inherit', opacity: 0.85 }}>
-    The impact ensured 'Templates' became part of the product:
-    <em>
-      {" "}
-      Mosaic: Content Formatting Macros &amp; Templates for
-      Confluence.
-    </em>{" "}
-  </p>
-</figcaption>
+              <figcaption>
+                <span>Product in motion</span>
+                Agile Vision Statement Template for Confluence
+                <p style={{ marginTop: '0.85rem', fontSize: '0.9rem', lineHeight: '1.5', fontFamily: 'inherit', fontWeight: '400', color: 'inherit', opacity: 0.85 }}>
+                  The impact ensured 'Templates' became part of the product:
+                  <em>
+                    {" "}
+                    Mosaic: Content Formatting Macros &amp; Templates for
+                    Confluence.
+                  </em>{" "}
+                </p>
+              </figcaption>
             </figure>
 
             <div className="evidence-grid">
@@ -191,27 +229,14 @@ export default function App() {
                 </figcaption>
               </figure>
               <div className="campaign-notes">
-                <p className="kicker">Beyond search</p>
-                <h3>B2C energy for a B2B product.</h3>
+                <p className="kicker">Strategic growth</p>
+                <h3>Built for scale and engagement.</h3>
                 <p>
-                  I created a D&amp;D character sheet for developer culture,
-                  promoted with a <em>Stranger Things</em> theme.
+                  By focusing on intent-driven assets rather than generic text, the content engine successfully bypassed the early friction of AI search overviews.
                 </p>
-                <ExternalLink href="https://www.kolekti.com/resources/templates/character-sheet-template-confluence">
-                  Explore the character sheet
-                </ExternalLink>
-                <div className="campaign-divider" />
-                <p>
-                  A partnership with Agile Manifesto signatory Jon Kern
-                  delivered Kolekti’s best-attended GTM webinar: 100+ attendees
-                  and 75% attendance from sign-up.
-                </p>
-                <ExternalLink href="https://www.kolekti.com/resources/templates/collections/jon-kern-agile-framework">
-                  View Jon Kern’s Agile Framework
-                </ExternalLink>
               </div>
             </div>
-        </div>
+          </div>
         </section>
 
         <section className="case-study" id="advnture">
