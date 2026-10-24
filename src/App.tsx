@@ -164,6 +164,17 @@ export default function App() {
               <figcaption>
                 <span>Product in motion</span>
                 Agile Vision Statement Template for Confluence
+                <div className="case-note" style={{ marginTop: '0.75rem' }}>
+      The impact ensured 'Templates' became part of the product:
+      <em>
+        {" "}
+        Mosaic: Content Formatting Macros &amp; Templates for
+        Confluence.
+      </em>{" "}
+      <a className="text-link" href="/Kolekti-Numbers.webp" target="_blank" rel="noreferrer">
+        View growth charts ↗
+      </a>
+    </div>
               </figcaption>
             </figure>
 
@@ -199,18 +210,7 @@ export default function App() {
                 </ExternalLink>
               </div>
             </div>
-            <p className="case-note">
-              The impact ensured 'Templates' became part of the product:
-              <em>
-                {" "}
-                Mosaic: Content Formatting Macros &amp; Templates for
-                Confluence.
-              </em>{" "}
-              <ExternalLink href="https://portfolio.simonkirrane.com/Kolekti-Numbers.webp">
-                View growth charts
-              </ExternalLink>
-            </p>
-          </div>
+        </div>
         </section>
 
         <section className="case-study" id="advnture">
