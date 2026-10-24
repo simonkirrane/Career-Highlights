@@ -39,17 +39,32 @@ export default function App() {
         Skip to content
       </a>
 
-    <header className="px-gutter pt-[clamp(48px,8vw,100px)] pb-12 border-b border-current/10">
-  <div className="flex justify-between items-center mb-8">
-    <span className="font-mono text-xs uppercase tracking-widest opacity-60">
-      [ SIMON KIRRANE — CONTENT STRATEGY &amp; SYSTEMS ]
-    </span>
-    <span className="font-mono text-xs">2026</span>
-  </div>
-  
-  <h1 className="font-serif text-[clamp(40px,7vw,96px)] leading-[1.05] tracking-tight max-w-[16ch]">
-    I connect products and systems to audience needs.
-  </h1>
+     <header className="site-header">
+        <a
+          className="wordmark"
+          href="#top"
+          aria-label="Simon Kirrane, back to top"
+        >
+          <span>SK</span>
+          <span>Simon Kirrane</span>
+        </a>
+        <nav aria-label="Portfolio sections">
+          <a href="#templates">01</a>
+          <a href="#advnture">02</a>
+          <a href="#canon">03</a>
+          <a href="#w42st">04</a>
+          <a href="#ai-work">05</a>
+        </nav>
+        <a
+          className="header-cta"
+          href="https://www.linkedin.com/in/simonkirrane/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          LinkedIn <span aria-hidden="true">↗</span>
+        </a>
+      </header>
+
   
   <p className="mt-8 max-w-[50ch] text-[clamp(17px,1.5vw,22px)] leading-relaxed opacity-90">
     20+ years leading content growth, digital transformation, and brand narrative across high-growth B2C, B2B, SaaS, and global publishing. MBA-qualified.
