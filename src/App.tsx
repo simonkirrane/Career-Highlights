@@ -39,7 +39,7 @@ export default function App() {
         Skip to content
       </a>
 
-     <header className="site-header">
+      <header className="site-header">
         <a
           className="wordmark"
           href="#top"
@@ -64,11 +64,6 @@ export default function App() {
           LinkedIn <span aria-hidden="true">↗</span>
         </a>
       </header>
-  
-  <p className="mt-8 max-w-[50ch] text-[clamp(17px,1.5vw,22px)] leading-relaxed opacity-90">
-    20+ years leading content growth, digital transformation, and brand narrative across high-growth B2C, B2B, SaaS, and global publishing. MBA-qualified.
-  </p>
-</header>
 
       <main id="main">
         <section className="hero" id="top">
@@ -495,4 +490,3 @@ export default function App() {
     </>
   )
 }
-
