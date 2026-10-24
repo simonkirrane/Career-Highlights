@@ -142,8 +142,10 @@ export default function App() {
               </div>
               <ol className="results-list">
                 <Result value="8,400">
-                  organic keywords by May 2024, versus roughly 1,350 for the
-                  next-best business unit.
+                  organic keywords. Templates were introduced after a year of organic growth where the closest business unit to Kolekti had just 1,350 keywords.  
+                  <a className="text-link" href="https://portfolio.simonkirrane.com/Kolekti-Numbers.webp" target="_blank" rel="noreferrer">
+      View growth charts ↗
+    </a>
                 </Result>
                 <Result value="6.6k → 36k">
                   monthly active users since launching Templates in 2023, with
@@ -171,9 +173,6 @@ export default function App() {
       Mosaic: Content Formatting Macros &amp; Templates for
       Confluence.
     </em>{" "}
-    <a className="text-link" href="https://portfolio.simonkirrane.com/Kolekti-Numbers.webp" target="_blank" rel="noreferrer">
-      View growth charts ↗
-    </a>
   </p>
 </figcaption>
             </figure>
