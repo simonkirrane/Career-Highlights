@@ -142,11 +142,13 @@ export default function App() {
               </div>
               <ol className="results-list">
                 <Result value="8,400">
-                  organic keywords. Templates were introduced after a year of organic growth where the closest business unit to Kolekti had just 1,350 keywords.  
-                  <a className="text-link" href="https://portfolio.simonkirrane.com/Kolekti-Numbers.webp" target="_blank" rel="noreferrer">
+  organic keywords. Templates were introduced after a year of organic growth where the closest business unit to Kolekti had just 1,350 keywords.  
+  <div style={{ marginTop: '0.5rem' }}>
+    <a className="text-link" href="https://portfolio.simonkirrane.com/Kolekti-Numbers.webp" target="_blank" rel="noreferrer">
       View growth charts ↗
     </a>
-                </Result>
+  </div>
+</Result>
                 <Result value="6.6k → 36k">
                   monthly active users since launching Templates in 2023, with
                   website traffic up 52% and evaluations up 10%.
