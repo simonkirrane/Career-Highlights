@@ -405,7 +405,7 @@ export default function App() {
                   <div style={{ textTransform: 'none' }}>Issue 01 · November/December 2014</div>
                   <div style={{ marginTop: '0.35rem' }}>
                     <ExternalLink href="https://issuu.com/w42st/docs/w42st_issue1">
-                      Read it
+                      Read it here
                     </ExternalLink>
                   </div>
                 </figcaption>
