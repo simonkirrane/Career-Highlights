@@ -396,17 +396,18 @@ export default function App() {
                   See W42ST today
                 </ExternalLink>
               </div>
-             <figure className="cover-figure">
+          <figure className="cover-figure">
                 <img
                   src="/w42st-cover.webp"
                   alt="Cover of the first issue of W42ST magazine"
                 />
-                <figcaption style={{ marginTop: '1.5rem', color: '#bac0c5', fontSize: '0.75rem', fontFamily: 'var(--mono)', display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
-                  <span style={{ textTransform: 'none' }}>Issue 01 · November/December 2014</span>
-                  <span aria-hidden="true" style={{ opacity: 0.4 }}>•</span>
-                  <ExternalLink href="https://issuu.com/w42st/docs/w42st_issue1">
-                    Read it
-                  </ExternalLink>
+                <figcaption style={{ marginTop: '1.5rem', color: '#bac0c5', fontSize: '0.75rem', fontFamily: 'var(--mono)' }}>
+                  <div style={{ textTransform: 'none' }}>Issue 01 · November/December 2014</div>
+                  <div style={{ marginTop: '0.35rem' }}>
+                    <ExternalLink href="https://issuu.com/w42st/docs/w42st_issue1">
+                      Read it
+                    </ExternalLink>
+                  </div>
                 </figcaption>
               </figure>
             </div>
