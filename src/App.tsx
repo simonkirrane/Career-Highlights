@@ -171,9 +171,9 @@ export default function App() {
       Mosaic: Content Formatting Macros &amp; Templates for
       Confluence.
     </em>{" "}
-    <a className="text-link" href="/Kolekti-Numbers.webp" target="_blank" rel="noreferrer">
-      View growth charts ↗
-    </a>
+  <a className="text-link" href="https://portfolio.simonkirrane.com/Kolekti-Numbers.webp" target="_blank" rel="noreferrer">
+  View growth charts ↗
+</a>
   </p>
 </figcaption>
             </figure>
