@@ -75,7 +75,6 @@ export default function App() {
                 <br />
                 Kirrane<span className="red-dot">.</span>
               </h1>
-              <p className="hero-qualification">MBA-qualified</p>
             </div>
 
             <div className="hero-statement">
@@ -206,15 +205,7 @@ export default function App() {
               <figcaption>
                 <span>Product in motion</span>
                 Agile Vision Statement Template for Confluence
-                <p style={{ marginTop: '0.85rem', fontSize: '0.9rem', lineHeight: '1.5', fontFamily: 'inherit', fontWeight: '400', color: 'inherit', opacity: 0.85 }}>
-                  The impact ensured 'Templates' became part of the product:
-                  <em>
-                    {" "}
-                    Mosaic: Content Formatting Macros &amp; Templates for
-                    Confluence.
-                  </em>{" "}
-                </p>
-              </figcaption>
+</figcaption>
             </figure>
 
             <div className="evidence-grid">
@@ -230,9 +221,9 @@ export default function App() {
               </figure>
               <div className="campaign-notes">
                 <p className="kicker">Strategic growth</p>
-                <h3>Built for scale and engagement.</h3>
+                <h3>Pre AIO Growth.</h3>
                 <p>
-                  By focusing on intent-driven assets rather than generic text, the content engine successfully bypassed the early friction of AI search overviews.
+                  In the first year by retooling the majority of the documentation into bottom-of-funnel blogs, hiring freelance to cover the majority of our keywords and using the team to cover GTM and top-of-funnel content we managed to make an impact on all metrics. Seeing that AIO was coming down the tracks we also started templates up to cover losses that would entail.
                 </p>
               </div>
             </div>
