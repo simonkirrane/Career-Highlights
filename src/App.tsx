@@ -408,7 +408,7 @@ In the first year by retooling documentation into bottom-of-funnel blogs, hiring
                 <h3>Built a global publishing division as the initial hire and lead.</h3>
                 <div className="inline-stat">
                   <strong>88</strong>
-                  <span>bookazine titles produced in 18 months, with a team of seven</span>
+                  <span>bookazine titles produced in 18 months, with a team of just seven</span>
                 </div>
               </div>
               <figure>
