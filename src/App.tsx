@@ -108,7 +108,7 @@ export default function App() {
     <span>LLM & AI search discovery</span>
   </div>
   <div>
-    <strong style={{ fontSize: '1.75rem' }}>AI Ops</strong>
+    <strong style={{ fontSize: '1.75rem' }}>AI</strong>
     <span>Prompt engineering & workflows</span>
   </div>
 </div>
