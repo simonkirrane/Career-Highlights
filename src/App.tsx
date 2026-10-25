@@ -146,10 +146,10 @@ export default function App() {
                 <ul className="outcomes-list" style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '2rem' }}>
                   <li>
                     <strong style={{ fontFamily: 'var(--serif)', fontSize: '1.35rem', color: 'var(--acid)', display: 'block', marginBottom: '0.3rem' }}>
-                      ~8,400 organic keywords
+                     0  → 8,400 organic keywords
                     </strong>
                     <p style={{ fontSize: '0.92rem', opacity: 0.85, margin: 0 }}>
-                      Grown by May 2024 (against ~1,350 for the next-best business unit), making organic search the #1 acquisition channel.
+                      By May 2024 I'd grown kolekti.com to ~8,400 organic keywords, against ~1,350 for the next-best business unit, with organic search the #1 acquisition channel.
                     </p>
                     <div style={{ marginTop: '0.4rem' }}>
                       <a className="text-link" href="https://portfolio.simonkirrane.com/Kolekti-Numbers.webp" target="_blank" rel="noreferrer" style={{ color: 'var(--acid)' }}>
@@ -163,7 +163,7 @@ export default function App() {
                       6,600 → 36,000 monthly active users
                     </strong>
                     <p style={{ fontSize: '0.92rem', opacity: 0.85, margin: 0 }}>
-                      Achieved since launching Templates in 2023, with website traffic up 52% and evaluations up 10%. This impact championed the product renaming to <em>Mosaic: Content Formatting Macros &amp; Templates for Confluence</em>.
+                      Achieved since launching Templates in 2023, alongside evaluations increasing by 10%. This impact led to us renaming the product: <em>Mosaic: Content Formatting Macros &amp; Templates for Confluence</em>.
                     </p>
                   </li>
 
