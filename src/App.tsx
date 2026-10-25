@@ -223,8 +223,7 @@ export default function App() {
                 <p className="kicker">Strategic growth</p>
                 <h3>Pre AIO Growth.</h3>
                 <p>
-                  In the first year by retooling the majority of the documentation into bottom-of-funnel blogs, hiring freelance to cover the majority of our keywords and using the team to cover GTM and top-of-funnel content we managed to make an impact on all metrics. Seeing that AIO was coming down the tracks we also started templates up to cover losses that would entail.
-                </p>
+In the first year by retooling documentation into bottom-of-funnel blogs, hiring freelance to cover our core keywords and using the team to cover GTM and top-of-funnel content we managed to make an impact on all metrics. Seeing AIO was coming down the tracks we also  launched the templates initiative to build traffic resilience.</p>
               </div>
             </div>
           </div>
