@@ -94,25 +94,25 @@ export default function App() {
             </div>
           </div>
 
-          <div className="metric-strip" aria-label="Career highlights">
-            <div>
-              <strong>20+</strong>
-              <span>Years leading content</span>
-            </div>
-            <div>
-              <strong>MBA</strong>
-              <span>Exeter Business School</span>
-            </div>
-            <div>
-              <strong>GEO/SEO</strong>
-              <span>LLM & AI search discovery</span>
-            </div>
-            <div>
-              <strong>AI Ops</strong>
-              <span>Prompt engineering & workflows</span>
-            </div>
-          </div>
-        </section>
+    <div className="metric-strip" aria-label="Career highlights">
+  <div>
+    <strong style={{ fontSize: '1.75rem' }}>20+</strong>
+    <span>Years leading content</span>
+  </div>
+  <div>
+     <strong style={{ fontSize: '1.75rem' }}>MBA</strong>
+    <span>Exeter Business School</span>
+  </div>
+  <div>
+    <strong style={{ fontSize: '1.75rem' }}>GEO/SEO</strong>
+    <span>LLM & AI search discovery</span>
+  </div>
+  <div>
+    <strong style={{ fontSize: '1.75rem' }}>AI Ops</strong>
+    <span>Prompt engineering & workflows</span>
+  </div>
+</div>
+</section>
 
  <section className="case-study dark-case" id="templates">
           <div className="section-inner">
