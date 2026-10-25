@@ -101,16 +101,16 @@ export default function App() {
               <span>Years leading content</span>
             </div>
             <div>
-              <strong>36k</strong>
-              <span>Monthly active users</span>
+              <strong>MBA</strong>
+              <span>Exeter Business School</span>
             </div>
             <div>
-              <strong>8.4m</strong>
-              <span>Quarterly visits</span>
+              <strong>GEO & SEO</strong>
+              <span>LLM & AI search discovery</span>
             </div>
             <div>
-              <strong>88</strong>
-              <span>Titles in 18 months</span>
+              <strong>AI Operations</strong>
+              <span>Prompt engineering & workflows<</span>
             </div>
           </div>
         </section>
