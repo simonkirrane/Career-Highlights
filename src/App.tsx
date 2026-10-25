@@ -223,7 +223,7 @@ export default function App() {
                 <p className="kicker">Strategic growth</p>
                 <h3>Pre AIO Growth.</h3>
                 <p>
-In the first year by retooling documentation into bottom-of-funnel blogs, hiring freelance to cover our core keywords and using the team to cover GTM and top-of-funnel content we managed to make an impact on all metrics. Seeing AIO was coming down the tracks we also  launched the templates initiative to build traffic resilience.</p>
+In the first year by retooling documentation into bottom-of-funnel blogs, hiring freelance to cover the rest of our core keywords and using the team to cover GTM and top-of-funnel content we managed to make an impact on all metrics. Seeing AIO was coming down the tracks we also launched the templates initiative to build in some traffic resilience.</p>
               </div>
             </div>
           </div>
@@ -405,10 +405,10 @@ In the first year by retooling documentation into bottom-of-funnel blogs, hiring
             <div className="bookazine-grid">
               <div>
                 <p className="kicker">Earlier work · 2012–14</p>
-                <h3>Built a global publishing division as the initial hire.</h3>
+                <h3>Built a global publishing division as the initial hire and lead.</h3>
                 <div className="inline-stat">
                   <strong>88</strong>
-                  <span>bookazine titles produced in 18 months</span>
+                  <span>bookazine titles produced in 18 months, with a team of seven</span>
                 </div>
               </div>
               <figure>
