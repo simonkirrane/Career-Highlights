@@ -128,7 +128,7 @@ export default function App() {
               </p>
             </div>
 
-            <div className="story-grid">
+              <div className="story-grid">
               <div className="story-copy">
                 <p className="kicker">The opportunity</p>
                 <p>
@@ -137,6 +137,13 @@ export default function App() {
                   know what they want – and convert at higher rates when they find
                   it. I built the strand around Confluence templates created
                   with our app, Mosaic.
+                </p>
+                <p style={{ marginTop: '1.5rem' }}>
+                  As we developed templates working through keywords and search to
+                  see what was important to people, we then moved into connected
+                  templates to create frameworks – targeting departmental rather
+                  than individual need – and from there we moved to connected
+                  frameworks to create enterprise-level solutions.
                 </p>
               </div>
 
