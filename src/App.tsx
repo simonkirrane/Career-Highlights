@@ -109,7 +109,7 @@ export default function App() {
             </div>
             <div>
               <strong>AI Operations</strong>
-              <span>Prompt engineering & workflows<</span>
+              <span>Prompt engineering & workflows</span>
             </div>
           </div>
         </section>
