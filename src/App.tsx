@@ -104,11 +104,11 @@ export default function App() {
               <span>Exeter Business School</span>
             </div>
             <div>
-              <strong>GEO & SEO</strong>
+              <strong>GEO/SEO</strong>
               <span>LLM & AI search discovery</span>
             </div>
             <div>
-              <strong>AI Operations</strong>
+              <strong>AI Ops</strong>
               <span>Prompt engineering & workflows</span>
             </div>
           </div>
