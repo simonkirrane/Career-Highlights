@@ -379,7 +379,7 @@ In the first year by retooling documentation into bottom-of-funnel blogs, hiring
                   </li>
                   <li>
                     <strong>Legacy-beating</strong>
-                    <span>Facebook engagement beat the Village Voice after launch</span>
+                    <span>Facebook engagement beat the Village Voice immediately after launch</span>
                   </li>
                 </ul>
                 <ExternalLink href="https://www.instagram.com/w42st/">
