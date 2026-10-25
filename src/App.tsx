@@ -105,7 +105,7 @@ export default function App() {
   </div>
   <div>
     <strong style={{ fontSize: '1.75rem' }}>GEO/SEO</strong>
-    <span>LLM & AI search discovery</span>
+    <span>LLM search discovery</span>
   </div>
   <div>
     <strong style={{ fontSize: '1.75rem' }}>AI</strong>
