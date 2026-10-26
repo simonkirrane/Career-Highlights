@@ -447,7 +447,7 @@ In the first year, by retooling documentation into bottom-of-funnel blogs, hirin
                 <span>01</span>
                 <h3>Semantic GEO strategy</h3>
                 <p>
-                  I researched and wrote this guide for ranking for LLMs by using a strict semantic structure based on schema in September 26.
+                  This is a guide I wrote in September 2026 about ranking for LLMs by using a semantic structure, and using schema as a basis.
                 </p>
                 <ExternalLink href="https://signal.simonkirrane.com/">
                   Read Signal/Noise
