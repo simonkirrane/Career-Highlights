@@ -139,8 +139,8 @@ export default function App() {
                   with our app, Mosaic.
                 </p>
                 <p style={{ marginTop: '1.5rem' }}>
-                  As we developed templates working through keywords and search to
-                  see what was important to people, we then moved into connected
+                  As we developed templates we worked through keywords and search
+                  data see what was important to people. We then moved into connected
                   templates to create frameworks – targeting departmental rather
                   than individual need – and from there we moved to connected
                   frameworks to create enterprise-level solutions.
