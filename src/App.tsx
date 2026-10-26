@@ -447,8 +447,7 @@ In the first year, by retooling documentation into bottom-of-funnel blogs, hirin
                 <span>01</span>
                 <h3>Semantic GEO strategy</h3>
                 <p>
-                  A practical approach to ranking for LLMs, led by schema and
-                  semantic signals.
+                  Ranking for LLMs by using a strict semantic structure based on schema.
                 </p>
                 <ExternalLink href="https://signal.simonkirrane.com/">
                   Read Signal/Noise
