@@ -500,13 +500,6 @@ In the first year, by retooling documentation into bottom-of-funnel blogs, hirin
         </div>
         <div className="footer-links">
           <a href="#top">Back to top ↑</a>
-          <a
-            href="https://www.linkedin.com/in/simon-kirrane/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            LinkedIn ↗
-          </a>
         </div>
         <p className="copyright">© 2026 Simon Kirrane</p>
       </footer>
