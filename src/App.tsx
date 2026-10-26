@@ -170,7 +170,7 @@ export default function App() {
                       6,600 → 36,000 monthly active users
                     </strong>
                     <p style={{ fontSize: '0.92rem', opacity: 0.85, margin: 0 }}>
-                      Achieved since launching Templates in 2023, with website traffic up 52% and evaluations up 10%. This impact led to us renaming the product: <em>Mosaic: Content Formatting Macros &amp; Templates for Confluence</em>.
+                      This was achieved since launching Templates in 2023, with website traffic up 52% and evaluations up 10%. The impact of templates led to us renaming the product: <em>Mosaic: Content Formatting Macros &amp; Templates for Confluence</em>.
                     </p>
                   </li>
 
@@ -179,7 +179,7 @@ export default function App() {
                       B2C energy for B2B
                     </strong>
                     <p style={{ fontSize: '0.92rem', opacity: 0.85, margin: 0 }}>
-                      Created a D&amp;D character sheet template speaking to developer culture, promoted on LinkedIn with a <em>Stranger Things</em> theme.{' '}
+                      We created a D&amp;D character sheet template speaking to developer culture and promoted it on LinkedIn with a <em>Stranger Things</em> theme.{' '}
                       <a className="text-link" href="https://www.kolekti.com/resources/templates/character-sheet-template-confluence" target="_blank" rel="noreferrer" style={{ color: 'var(--acid)' }}>
                         Character Sheet ↗
                       </a>
@@ -188,10 +188,10 @@ export default function App() {
 
                   <li>
                     <strong style={{ fontFamily: 'var(--serif)', fontSize: '1.35rem', color: 'var(--acid)', display: 'block', marginBottom: '0.3rem' }}>
-                      The Agile Framework GTM
+                      The Agile Framework
                     </strong>
                     <p style={{ fontSize: '0.92rem', opacity: 0.85, margin: 0 }}>
-                      Partnered with Agile Manifesto signatory Jon Kern, yielding Kolekti's best-attended webinar (100+ attendees, 75% signup attendance).{' '}
+                      Partnering with Agile Manifesto signatory Jon Kern, this also yielded Kolekti's best-attended webinar (100+ attendees, 75% signup attendance).{' '}
                       <a className="text-link" href="https://www.linkedin.com/events/agileat25-howtospotagorillainat7475877695097126912/" target="_blank" rel="noreferrer" style={{ color: 'var(--acid)' }}>
                         How to Spot a Gorilla in a Tutu ↗
                       </a>{' | '}
