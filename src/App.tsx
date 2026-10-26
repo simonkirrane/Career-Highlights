@@ -170,7 +170,7 @@ export default function App() {
                       6,600 → 36,000 monthly active users
                     </strong>
                     <p style={{ fontSize: '0.92rem', opacity: 0.85, margin: 0 }}>
-                      Achieved since launching Templates in 2023, alongside evaluations increasing by 10%. This impact led to us renaming the product: <em>Mosaic: Content Formatting Macros &amp; Templates for Confluence</em>.
+                      Achieved since launching Templates in 2023, with website traffic up 52% and evaluations up 10%. This impact led to us renaming the product: <em>Mosaic: Content Formatting Macros &amp; Templates for Confluence</em>.
                     </p>
                   </li>
 
