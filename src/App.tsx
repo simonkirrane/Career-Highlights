@@ -457,7 +457,7 @@ In the first year, by retooling documentation into bottom-of-funnel blogs, hirin
                 <span>02</span>
                 <h3>Enterprise AI adoption</h3>
                 <p>
-                  An enterprise guide, reworked into a practical playbook for
+                  I reworked this guide (written in in 2024) for our AI governance tool's website, into a practical playbook for
                   content marketers.
                 </p>
                 <ExternalLink href="https://www.simonkirrane.com/blog/how-to-use-ai-for-content-marketing">
