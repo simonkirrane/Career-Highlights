@@ -468,8 +468,8 @@ In the first year, by retooling documentation into bottom-of-funnel blogs, hirin
                 <span>03</span>
                 <h3>The 'impossible' fix</h3>
                 <p>
-                  A custom prompt solution enabling Rovo to read content inside
-                  any Confluence macro – findings now shared with Atlassian.
+                  I created a custom prompt solution that enabled Atlassian's Rovo to read content inside
+                  any Confluence macro, which had been deemed impossible to that point.
                 </p>
               </article>
             </div>
