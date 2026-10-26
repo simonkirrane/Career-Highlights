@@ -447,7 +447,7 @@ In the first year, by retooling documentation into bottom-of-funnel blogs, hirin
                 <span>01</span>
                 <h3>Semantic GEO strategy</h3>
                 <p>
-                  Ranking for LLMs by using a strict semantic structure based on schema.
+                  I researched and wrote this guide for ranking for LLMs by using a strict semantic structure based on schema in September 26.
                 </p>
                 <ExternalLink href="https://signal.simonkirrane.com/">
                   Read Signal/Noise
@@ -469,7 +469,7 @@ In the first year, by retooling documentation into bottom-of-funnel blogs, hirin
                 <h3>The 'impossible' fix</h3>
                 <p>
                   I created a solution that enabled Atlassian's Rovo to read content inside
-                  any Confluence macro, which had been deemed impossible to that point.
+                  any Confluence macro, which had been deemed impossible to that point. See the PM's notes below.
                 </p>
               </article>
             </div>
