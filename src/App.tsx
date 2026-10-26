@@ -142,7 +142,7 @@ export default function App() {
                   As we developed templates we worked through keywords and search
                   data see what was important to people. We then moved into connected
                   templates to create frameworks – targeting departmental rather
-                  than individual need – and from there we moved to connected
+                  than individual needs – and from there we moved to connected
                   frameworks to create enterprise-level solutions.
                 </p>
               </div>
