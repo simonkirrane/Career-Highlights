@@ -230,7 +230,7 @@ export default function App() {
                 <p className="kicker">Strategic growth</p>
                 <h3>Pre AIO Growth.</h3>
                 <p>
-In the first year, by retooling documentation into bottom-of-funnel blogs, hiring freelance to cover the rest of our core keywords, and using the team to cover GTM and top-of-funnel content, we managed to make an impact on all metrics. Seeing AIO was coming down the tracks, we also launched the templates initiative to build in some traffic resilience.</p>
+In 2023, my first year at Kolekti, by retooling documentation into bottom-of-funnel blogs, hiring freelance to cover the rest of our core keywords, and using the team to cover GTM and top-of-funnel content, we managed to make an impact on all metrics. Seeing AIO was coming down the tracks, we also launched the templates initiative to build in some traffic resilience.</p>
               </div>
             </div>
           </div>
